@@ -1,0 +1,9 @@
+.idea/
+*.swp
+*.swo
+
+.env
+.env.local
+.env.development
+.env.production
+.env.test
